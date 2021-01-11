@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Sugarcane 
+  email: not-yet
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
